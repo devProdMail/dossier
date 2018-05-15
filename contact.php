@@ -9,7 +9,6 @@
 	
 	<body>
 		<h1>Hello world !</h1>
-		<p>Modif</p>
 		
 		<script src="js/script.js"></script>
 	</body>
